@@ -1,11 +1,11 @@
 # Site settings
-author: Frank  D'Angelo
-title: 
+author: Frank D'Angelo
+title: Frank's Programming Blog
 header-img: img/home-bg.png
 email: 08fdange@gmail.com
-copyright_name: Frank  D'Angelo
+copyright_name: Frank D'Angelo
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Frank's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  08fdange
