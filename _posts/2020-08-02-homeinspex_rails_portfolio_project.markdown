@@ -8,7 +8,7 @@ permalink:  homeinspex_rails_portfolio_project
 
 For my Rails Portfolio Project I decided to make an application that could be used by clients and inspectors for home inspections. I started out by figuring out what models I would need and their relationships by making this little web graph of sorts on my iPad. 
 
-https://imgur.com/vExxPt8
+![](https://i.imgur.com/vExxPt8l.png)
 
 Once I had that figured out I looked into what gems I would use for my project. I decided to use the devise gem for authentication. I had to customize a few things to get devise to work for both user models (Client and Inspector) without any cross model visits. Here's what I did: 
 
@@ -21,7 +21,7 @@ Once I had that figured out I looked into what gems I would use for my project. 
 
 After figuring a work around for the cross model visits, I added omniauth for the Client model, made a migration for the Inspection model with all the attributes of an inspection, defined the model relationships in each model.rb file, and created all the rest of routes needed. I then worked on the views, forms, added bootstrap for styling, worked on the user interface, added validations, worked on displaying errors, etc. It was a really fun project and I think it ended up looking fairly aesthetic. Here's a picture of the homepage:
 
-https://imgur.com/2EDhLTU
+![](https://i.imgur.com/2EDhLTUl.png)
 
 
 Really looking forward to future challenges! 
