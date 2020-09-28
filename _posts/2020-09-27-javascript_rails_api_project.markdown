@@ -7,11 +7,11 @@ permalink:  javascript_rails_api_project
 
 
 
-##My Project Idea - BurgerBites
+## My Project Idea - BurgerBites
 
 For this project I decided I wanted to make a burger rating application. It is a single page application (per requirements) where users can register, log in and leave a rating on local burger joints based on whatever location they enter. It utilizes the Yelp API in order to populate the application with burger places. Originally, I wanted to create the application to pull your location automatically through the browser and display a map based on that location of all the burger places. Unfortunately, I didn't have enough time to create an application that complex so I simplified it a bit by adding a search/query bar where you can enter an address or zip code to search for the burger spots and a list, instead of a map, to display them. 
 
-##The Backend Set Up
+## The Backend Set Up
 
 **The Rails API backend has three tables/models**:
 
@@ -115,7 +115,7 @@ An "authenticate_request" function was added in the ApplicationController to be 
 
 Overall, the backend was too difficult to set up properly, and took very little troubleshooting. 
 
-##Setting Up the Front End
+## Setting Up the Front End
 
 For the assignment, we were told to organize our Javascript in Object Oriented classes. These were the js files I created in the "src" file: 
 
@@ -127,7 +127,7 @@ For the assignment, we were told to organize our Javascript in Object Oriented c
 
 The front end was challenging and took a lot of debugging to get everything to display properly. Registration/Login system was probably less ideal based on the requirements of the project and probably could have implemented better with use of a front end framework so that took a decent chunk of my time to get working properly. I also have some styling with bootstrap 4 and star display for the ratings of each place using icons from font awesome a little basic math in static function located in the review js model to determine how many stars should be displayed based on a percentage (stars were displayed through CSS). Due to time constraints as well as preference, I chose to keep a rather clean interface for the application, although I would like to spend a little more time fine tuning the styling of the application.
 
-###Conclusion
+### Conclusion
 
 Overall, I had a fun time building this project. It definitely put some challenges in front of me that I hadn't faced previously in the curriculum and I learned a lot working on it. I'd love to spend some additional time working on the project and making it even better than it is now, and eventually implenting my original idea of the map interface instead of the list. 
 
