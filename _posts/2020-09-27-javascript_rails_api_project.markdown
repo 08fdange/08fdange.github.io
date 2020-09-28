@@ -1,17 +1,17 @@
 ---
 layout: post
 title:      "Javascript/Rails API Project"
-date:       2020-09-28 01:21:43 +0000
+date:       2020-09-27 21:21:44 -0400
 permalink:  javascript_rails_api_project
 ---
 
 
 
-##**My Project Idea - BurgerBites**
+##My Project Idea - BurgerBites
 
 For this project I decided I wanted to make a burger rating application. It is a single page application (per requirements) where users can register, log in and leave a rating on local burger joints based on whatever location they enter. It utilizes the Yelp API in order to populate the application with burger places. Originally, I wanted to create the application to pull your location automatically through the browser and display a map based on that location of all the burger places. Unfortunately, I didn't have enough time to create an application that complex so I simplified it a bit by adding a search/query bar where you can enter an address or zip code to search for the burger spots and a list, instead of a map, to display them. 
 
-##**The Backend Set Up**
+##The Backend Set Up
 
 **The Rails API backend has three tables/models**:
 
@@ -115,7 +115,7 @@ An "authenticate_request" function was added in the ApplicationController to be 
 
 Overall, the backend was too difficult to set up properly, and took very little troubleshooting. 
 
-##**Setting Up the Front End**
+##Setting Up the Front End
 
 For the assignment, we were told to organize our Javascript in Object Oriented classes. These were the js files I created in the "src" file: 
 
