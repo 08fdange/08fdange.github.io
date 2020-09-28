@@ -113,7 +113,7 @@ An "authenticate_request" function was added in the ApplicationController to be 
     end
 ```
 
-Overall, the backend was too difficult to set up properly, and took very little troubleshooting. 
+Overall, the backend wasn't too difficult to set up properly, and took very little troubleshooting. 
 
 ## Setting Up the Front End
 
