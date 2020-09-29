@@ -129,7 +129,7 @@ The front end was challenging and took a lot of debugging to get everything to d
 
 ### Conclusion
 
-Overall, I had a fun time building this project. It definitely put some challenges in front of me that I hadn't faced previously in the curriculum and I learned a lot working on it. I'd love to spend some additional time working on the project and making it even better than it is now, and eventually implenting my original idea of the map interface instead of the list. 
+Overall, I had a fun time building this project. It definitely put some challenges in front of me that I hadn't faced previously in the curriculum and I learned a lot working on it. I'd love to spend some additional time working on the project and making it even better than it is now, and eventually implementing my original idea of the map interface instead of the list. 
 
 
 
