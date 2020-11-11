@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JWT User Authentication in Rails API"
-date:       2020-11-11 01:41:08 +0000
+date:       2020-11-10 20:41:08 -0500
 permalink:  jwt_user_authentication_in_rails_api
 ---
 
