@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Why software development? Well, heres why..."
+title:      "Why software development?"
 date:       2020-02-13 02:00:12 -0500
 permalink:  why_software_development_well_heres_why
 ---
